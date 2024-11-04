@@ -1,2 +1,2 @@
-THIS is the cat text file
+Bob likes cats
 There was no previous cat text file from when I forgot to switch to dev
